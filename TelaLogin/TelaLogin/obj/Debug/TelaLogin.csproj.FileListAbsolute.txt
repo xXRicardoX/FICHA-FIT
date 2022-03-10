@@ -1,0 +1,100 @@
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Bem_Vindo.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Bem_Vindo.resources
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\Projeto\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Bem_Vindo.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Projeto\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Bem_Vindo.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.CriarFicha.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.PesquisarUsuario.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV1\TelaLogin\TelaLogin\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Cliente.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Bem_Vindo.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Cliente.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.CriarFicha.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.PesquisarUsuario.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\TelaLoginV2\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Cliente.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.CriarFicha.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\V4\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.PesquisarUsuario.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.frmCadastro.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Cliente.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.CriarFicha.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.Painel_Coach.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Apresentação_tela_.PesquisarUsuario.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Ricardo\Documents\Importante\Cursos\Faculdade\FATEC\3° Semestre\Programação Orientação de Objetos\Finalizado\FichaFit\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
